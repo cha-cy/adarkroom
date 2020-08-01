@@ -1,0 +1,18 @@
+var langs = {
+  	'zh_cn':'简体中文',
+ 	'ja':'日本語',
+  	'en':'english',
+	'de':'deutsch',
+	'es':'español',
+	'fr':'français',
+	'it':'italiano',
+	'nb':'norsk',
+	'pl':'polski',
+	'pt':'português',
+	'ru':'русский',
+	'sv':'svenska',
+	'tr':'türkçe',
+	'uk':'українська',
+	'vi':'tiếng việt',
+ 	'ko':'한국어',
+};
